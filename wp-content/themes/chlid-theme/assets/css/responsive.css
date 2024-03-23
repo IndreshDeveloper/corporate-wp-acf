@@ -1,0 +1,300 @@
+@media screen and (max-width: 1169px) {
+    .banner-text-block h1{font-size: 47px;line-height: 70px;}
+    .banner_section::after{display: none;}
+    .banner-row{padding-top: inherit;}
+    .banner-image{margin-top: 50px;}
+    .banner-btn{font-size: 19px;}
+
+    .features-section{padding: 120px 0;}
+    .features-textblock h3{padding-top: 18px;font-size: 37px;}
+    .feature-row{margin-top: 70px;}
+    .features-text img{margin-bottom: 30px;}
+    .features-text h4{font-size: 28px;line-height: 40px;}
+    .features-text p{font-size: 17px;}
+
+    .marketing-section{padding-bottom: 120px;}
+    .marketing-row{gap: 60px;}
+    .m-col-block{width: calc(50% - 30px);}
+    .right-block h2{font-size: 42px;line-height: 60px;}
+    .right-block h5{padding-bottom: 15px;}
+    .right-block p{padding: 27px 0 23px 0;}
+    .marketing-row::after{left: -40px;bottom: 0;height: 81px;}
+    .market-img-block:nth-child(even){margin-top: 60px;}
+    .market-btn{padding: 16px 14px;}
+
+    .services-section{padding: 110px 0;}
+    .text-block h5{margin-bottom: 15px;}
+    .text-block h2{font-size: 42px;line-height: 60px;}
+    .services-row{margin-top: 60px;gap: 50px;}
+    .services-text-block h4{font-size: 28px;}
+    .services-text-block{left: 25px;bottom: 70px;right: 30px;}
+    .text-block h5{line-height: 30px;}
+
+    .Get-to-work{padding: 120px 0;}
+    .list-menu{gap: 20px;}
+    .get-text-block h2{font-size: 42px;line-height: 60px;}
+    .get-text-block p{padding: 25px 0;}
+
+    .global-project h5{margin-bottom: 15px;line-height: 30px;}
+    .global-project h2{font-size: 42px;line-height: 60px;}
+    .global-row{margin-top: 60px;}
+    .global-main-block{width: calc(50% - 15px);}
+
+    .consultation-section{padding: 110px 0;}
+    .consultation-text-block h4{font-size: 38px;line-height: 55px;}
+    .consultation-btn{font-size: 19px;padding: 22px 36px;}
+    .consultation-row{padding: 115px 0;}
+
+    .team-text-block h5{line-height: 30px;margin-bottom: 15px;}
+    .team-text-block h3{line-height: 50px;}
+    .team-row{margin-top: 60px;}
+    .team-member-info h5{font-size: 19px;}
+    .team-member-info span{font-size: 17px;}
+
+    .weekly-article{margin: 100px 0;padding: 80px 0;}
+    .article-btn a{font-size: 20px;}
+
+    .footer-section{padding: 80px 0;}
+    .right-col-block{gap: 100px;}
+    .footer-col {width: calc(33.33% - 66.66px);}
+    .footer-text-block p{padding: 20px 0 35px 0;}
+    .social-links{gap: 25px;}
+    .social-links li a{width: 48px;height: 48px;}
+    .footer-menu ul li a{font-size: 17px;}
+    .footer-menu ul{gap: 25px;}
+
+}
+@media screen and (max-width: 991px) {
+    .navigation ul{gap: 30px;}
+    .header-btn{padding: 12px 40px;}
+    body{padding-top: 95px;}
+
+    .banner-text-block h1{font-size: 35px;line-height: 50px;}
+    .banner-text-block p{padding: 20px 0;}
+    .banner-btn{font-size: 18px;padding: 6px 20px;}
+    .banner-image{margin-top: 45px;}
+    .banner_section::before{display: none;}
+
+    .features-section{padding: 90px 0;}
+    .features-section::after{display: none;}
+    .features-textblock h5{line-height: 25px;font-size: 19px;}
+    .features-textblock h3{font-size: 33px;padding-top: 15px;line-height: 35px;}
+    .features-text img{margin-bottom: 15px;}
+    .features-text h4{font-size: 23px;line-height: 35px;}
+    .feature-row{gap: 40px;margin-top: 60px;}
+    .feature-col {width: calc(50% - 20px);border: 1px solid lightgrey;border-radius: 6px;padding: 20px;}
+
+    .marketing-section{padding-bottom: 90px;}
+    .right-block h5{font-size: 19px;line-height: 25px;}
+    .market-img-block:nth-child(even){margin-top: 50px;}
+    .m-col-block {width: 100%;}
+    .left-block{width: 80%;}
+    .marketing-row{gap: 40px;}
+    .right-block h2{font-size: 41px;line-height: 50px;}
+    .marketing-row::after{display: none;}
+
+    .services-section{padding: 90px 0;}
+    .text-block h5{font-size: 19px;line-height: 25px;}
+    .text-block h2{font-size: 41px;line-height: 50px;}
+    .services-row{gap: 30px;margin-top: 50px;}
+    .services-text-block{left: 20px;bottom: 35px;right: 4px;}
+    .services-text-block h4{font-size: 26px;line-height: 30px;margin-bottom: 15px;}
+
+    .Get-to-work{padding: 90px 0;}
+    .work-row::after{display: none;}
+    .get-work-col {width: 100%;}
+    .get-img-block img {width: 60%;}
+    .get-text-block h5 {font-size: 19px;line-height: 25px;margin-bottom: 15px;}
+    .get-text-block h2{font-size: 40px;line-height: 50px;}
+    .get-text-block p{padding: 23px 0;}
+    .list-menu{gap: 15px;}
+
+    .global-project h5{font-size: 19px;line-height: 25px;}
+    .global-project h2{font-size: 40px;line-height: 50px;}
+    .g-text-block{left: 30px;right: 30px;bottom: 35px;}
+    .global-img-block img{height: 450px;}
+
+    .consultation-section{padding: 90px 0;}
+    .consultation-row{padding: 80px 0;}
+    .consultation-text-block h4{font-size: 30px;line-height: 40px;max-width: 455px;}
+    .consultation-btn{font-size: 17px;padding: 17px 25px;}
+    .team-text-block h5{font-size: 19px;line-height: 25px;}
+    .team-text-block h3{font-size: 35px;line-height: 45px;}
+    .team-row{margin-top: 50px;}
+    .team-member-info h5{font-size: 17px;line-height: 32px;padding-left: 20px;}
+    .team-member-info span{font-size: 16px;}
+    .team-member-info{padding-bottom: 20px;}
+    .team-member-info span{padding-left: 20px;}
+
+    .weekly-article{margin: 80px 0;padding: 70px 0;}
+    .article-text-block h4{font-size: 27px;line-height: 35px;}
+    .article-btn a{font-size: 16px;}
+    .article-text-block{max-width: 512px;}
+    .article-text-block p{padding-top: 15px;}
+    
+    .left-col-block{width: 40%;}
+    .right-col-block {width: 60%;}
+    .right-col-block{gap: 80px;}
+    .footer-col{width: calc(33.33% - 53.33px);}
+    .social-links li a{width: 44px;height: 44px;}
+    .social-links li a i{font-size: 25px;}
+    .social-links{gap: 23px;}
+    .footer-menu ul{gap: 20px;padding-top: 25px;}
+    .footer-text-block p{padding: 20px 0 25px 0;}
+}
+@media screen and (max-width: 767px) {
+    #header{padding: 10px 0;transition: all ease 0.5s;}
+    .menu-bar{display: block;}
+    .header-btn{display: none;}
+    .menu-bar i{font-size: 30px;color: var(--orange-color);}
+    .open-menu .navigation{left: 0;}
+    .navigation ul {display: flex;flex-direction: column;align-items: baseline;}
+    .navigation {position: fixed;left: -100%;top: 75px;background: var(--orange-color);z-index: 99;width: 100%;height: calc(100vh - 75px);padding: 20px;transition: all ease 0.5s;}
+    .navigation > ul > li > a{line-height: inherit;color: var(--white-color);}
+    .navigation > ul > li > a::after{bottom: -5px;}
+    .navigation .current-menu-item a{color: var(--white-color);}
+    .navigation ul li a:hover{color: var(--black-color);}
+    .navigation ul li a:hover::after{background: var(--black-color);}
+    body{padding-top: 75px;transition: all ease 0.5s;}
+    .fixed-header .navigation > ul > li > a{line-height: inherit;}
+    .fixed-header #header{top: 0;}
+    .fixed-header .navigation{top: 75px;height: calc(100vh - 75px);}
+
+    .banner-col{width: 100%;}
+    .banner-text-block{padding: 48px 0;text-align: center;}
+    .banner-row{gap: 20px;}
+    .banner-image{margin-top: inherit;}
+    .banner-text-block h1{font-size: 34px;line-height: 45px;}
+    .banner-btn{font-size: 17px;padding: 4px 20px;}
+    .banner-image img{width: 90%;}
+    .banner-image{display: flex;justify-content: center;}
+
+    .features-section{padding: 70px 0;}
+    .features-textblock h5{font-size: 17px;line-height: 22px;}
+    .features-textblock h3{font-size: 30px;padding-top: 10px;}
+    .feature-row{gap: 30px;margin-top: 50px;}
+    .feature-col{width: 100%;}
+    
+    .marketing-section{padding-bottom: 70px;}
+    .left-block{width: 100%;}
+    .marketing-row{gap: 30px;}
+    .right-block h5{font-size: 17px;line-height: 22px;}
+
+    .services-section{padding: 70px 0;}
+    .text-block h5{font-size: 17px;line-height: 22px;}
+    .text-block h2{font-size: 39px;}
+    .services-main-block{width: 100%;}
+    .services-text-block{bottom: 60px;}
+
+    .Get-to-work{padding: 70px 0;}
+    .get-text-block h5{font-size: 17px;line-height: 22px;}
+    .get-text-block h2{font-size: 39px;line-height: 45px;}
+    .get-text-block p{padding: 21px 0;}
+    .get-img-block img{width: 80%;}
+    .get-work-col{text-align: center;}
+    .list-menu{gap: 10px;}
+
+    .global-project h5{font-size: 17px;line-height: 22px;}
+    .global-project h2{font-size: 39px;line-height: 45px;}
+    .global-row{margin-top: 50px;}
+    .global-img-block img{height: 350px;}
+    .g-text-block{left: 15px;bottom: 40px;right: 20px;}
+    .g-text-block h4{font-size: 24px;line-height: 35px;margin-bottom: 10px;}
+    .g-text-block p{font-size: 15px;}
+
+    .consultation-section{padding: 70px 0;}
+    .consultation-row{padding: 65px 0;}
+    .consultation-text-block{flex-direction: column;}
+    .consultation-text-block h4{text-align: center;margin-bottom: 25px;}
+    .consultation-btn{font-size: 16px;padding: 15px 20px;}
+
+    .team-text-block h5{font-size: 17px;line-height: 22px;margin-bottom: 10px;}
+    .team-text-block h3{font-size: 32px;line-height: 40px;}
+    .team-row{margin-top: 40px;}
+    .team-member-info {width: calc(50% - 15px);}
+    .article-text-block {max-width: inherit;padding-right: inherit;margin-right: inherit;text-align: center;border-right: inherit;}
+    .article-row {flex-direction: column;gap: 20px;}
+    .article-text-block h4{font-size: 25px;line-height: 30px;}
+    .article-text-block p{font-size: 15px;padding-top: 10px;}
+    .article-btn a{padding: 12px 25px;}
+    .weekly-article{margin: 70px 0;padding: 65px 0;}
+
+    .footer-section{padding: 70px 0;}
+    .left-col-block{width: 100%;}
+    .right-col-block{width: 100%;}
+    .footer-row{gap: 30px;}
+}
+@media screen and (max-width: 575px) {
+    .banner-text-block h1{font-size: 29px;line-height: 40px;}
+    .banner-text-block p{font-size: 15px;}
+    .banner-btn{font-size: 16px;line-height: 34px;padding: 4px 15px;}
+    .banner-text-block{padding: 30px 0;}
+    .banner-image img{width: 100%;}
+
+    .features-section{padding: 60px 0;}
+    .features-textblock h5{font-size: 16px;line-height: 25px;}
+    .features-textblock h3{font-size: 25px;line-height: 30px;}
+    .features-text h4{font-size: 20px;line-height: 30px;}
+    .feature-col{padding: 15px;}
+    .features-text p{font-size: 16px;line-height: 22px;padding-top: 10px;}
+    .feature-row{margin-top: 40px;}
+
+    .market-img-block:nth-child(even){margin-top: 30px;}
+    .right-block h5{font-size: 16px;padding-bottom: 10px;line-height: 25px;}
+    .right-block h2{font-size: 27px;line-height: 35px;}
+    .right-block p{font-size: 15px;line-height: 23px;padding: 17px 0 20px 0;}
+    .market-btn{font-size: 14px;padding: 12px 10px;}
+
+    .services-section{padding: 60px 0;}
+    .text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 10px;}
+    .text-block h2{font-size: 27px;line-height: 35px;}
+    .services-row{margin-top: 40px;}
+    .services-text-block h4{font-size: 22px;line-height: 25px;margin-bottom: 12px;}
+    .services-text-block p{font-size: 15px;line-height: 22px;}
+    .services-text-block{left: 15px;bottom: 25px;}
+
+    .Get-to-work{padding: 60px 0;}
+    .get-img-block img{width: 100%;}
+    .get-text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 10px;}
+    .get-text-block h2{font-size: 27px;line-height: 38px;}
+    .list-menu li{font-size: 15px;}
+    .get-text-block p{padding: 18px 0;}
+
+    .global-project h5{font-size: 16px;line-height: 25px;margin-bottom: 10px;}
+    .global-project h2{font-size: 27px;line-height: 35px;}
+    .global-row{margin-top: 40px;}
+    .global-main-block{width: 100%;}
+    .global-img-block img{height: 360px;}
+    .g-text-block{left: 25px;bottom: 30px;}
+
+    .consultation-section{padding: 60px 0;}
+    .consultation-row{padding: 55px 0;}
+    .consultation-text-block h4{font-size: 24px;line-height: 35px;}
+    .consultation-btn{font-size: 15px;padding: 13px 15px;}
+
+    .team-text-block h5{font-size: 16px;line-height: 25px;margin-bottom: 10px;}
+    .team-text-block h3{font-size: 25px;line-height: 32px;}
+    .team-member-info{width: 100%;}
+    .team-member-info h5{font-size: 16px;line-height: 25px;}
+    .team-member-info span{font-size: 14px;}
+
+    .weekly-article{margin: 60px 0;padding: 55px 0;}
+    .article-text-block h4{font-size: 20px;}
+    .article-text-block p{font-size: 14px;line-height: 22px;}
+
+    .footer-text-block p{padding: 15px 0 20px 0;}
+    .footer-text-block p{line-height: 25px;}
+    .footer-section{padding: 60px 0;}
+    .social-links li a{width: 42px;height: 42px;}
+    .social-links li a i{font-size: 22px;}
+    .footer-col{width: 100%;text-align: center;}
+    .left-col-block{text-align: center;}
+    .footer-text-block p{max-width: inherit;}
+    .social-links{justify-content: center;}
+    .right-col-block{gap: 30px;}
+    .footer-menu ul{gap: 15px;padding-top: 20px;}
+    .footer-menu ul li a{font-size: 16px;}
+}
+@media screen and (max-width: 319px) {
+    
+}
